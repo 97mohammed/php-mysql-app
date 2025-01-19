@@ -48,10 +48,7 @@ This project is designed to help users manage data using a web interface built w
     ?>
     ```
 
-5. Start the web server and access the application in your browser:
-    ```
-    http://localhost/php-mysql-app
-    ```
+
 
 
 
